@@ -1,0 +1,3 @@
+An EJB java project to simulate holding an auction. Uses Glassfish as container.
+
+Technologies used: JPA, JMS, EJB, logging.
