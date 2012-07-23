@@ -1,0 +1,4 @@
+#Fri Jun 08 15:27:04 EEST 2012
+eclipse.preferences.version=1
+org.eclipse.jpt.core.discoverAnnotatedClasses=true
+org.eclipse.jpt.core.platform=generic

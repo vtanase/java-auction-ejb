@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/projects/java.technologies/glassfish-tools-bundle/glassfishv3/glassfish/modules/gf-client.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/final-ejbClient"/>
+	<classpathentry kind="lib" path="E:/projects/java.technologies/glassfish-tools-bundle/mysql-driver/mysql-connector-java-5.1.10-bin.jar"/>
+	<classpathentry kind="lib" path="E:/projects/java.technologies/workspace/libraries/joda-time-2.1/joda-time-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
